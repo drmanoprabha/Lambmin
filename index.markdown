@@ -2,6 +2,7 @@
 layout: home
 title: Welcome to Lamb Ministries.
 ---
+siteurl= {{site.baseurl}}
 <main>
 
   <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
